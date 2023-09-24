@@ -1,0 +1,35 @@
+{
+  "name": {
+    "common": "Caribbean Netherlands",
+    "official": "Bonaire, Sint Eustatius and Saba",
+    "nativeName": {
+      "nld": {
+        "official": "Bonaire, Sint Eustatius en Saba",
+        "common": "Caribisch Nederland"
+      },
+      "pap": {
+        "official": "Boneiru, Sint Eustatius y Saba",
+        "common": "Boneiru, Sint Eustatius y Saba"
+      }
+    }
+  },
+  "cca2": "BQ",
+  "ccn3": "535",
+  "cca3": "BES",
+
+  "currencies": {
+    "USD": {
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  },
+
+  "region": "Americas",
+  "languages": {
+    "eng": "English",
+    "nld": "Dutch",
+    "pap": "Papiamento"
+  },
+
+  "latlng": [12.18, -68.25]
+}
